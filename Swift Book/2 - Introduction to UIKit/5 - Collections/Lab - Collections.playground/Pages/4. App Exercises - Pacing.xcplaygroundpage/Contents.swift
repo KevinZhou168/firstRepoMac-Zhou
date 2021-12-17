@@ -9,6 +9,7 @@
  */
 var paces = ["Easy": 10.0, "Medium": 8.0, "Fast": 6.0]
 print(paces)
+// TEST
 //:  Add a new key/value pair to the dictionary. The key should be "Sprint" and the value should be 4.0. Print the dictionary.
 paces["Sprint"] = 4.0
 print(paces)
